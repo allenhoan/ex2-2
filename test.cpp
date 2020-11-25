@@ -2,8 +2,7 @@
 
 int main(){
 	
-	printf("world!");
-	
+	printf("hellow world!");
 	
 	return 0;
 }
